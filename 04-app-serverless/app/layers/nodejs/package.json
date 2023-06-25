@@ -1,0 +1,15 @@
+{
+    "name": "app-serverless",
+    "version": "1.0.0",
+    "description": "App construido com Terraform",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Erro: nenhum teste informado\" && exit 1"
+    },
+    "keywords": [],
+    "author": "Vinicius Puça Ribeiro <viniciuspuca@gmail.com> (https://github.com/viniciuspuca)",
+    "license": "ISC",
+    "dependencies": {
+      "joi": "^17.3.0"
+    }
+  }  
